@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawan Patel</h1>
-- 👨‍🎓 I'm a Final-year Undraduate at NIT-Bhopal, pursuing Computer Science and Engineering
+- 👨‍🎓 I'm a Final-year Undergraduate at NIT-Bhopal, pursuing Computer Science and Engineering
 
 - 🔭 Currently I'm working on **my major and some side projects**
 
