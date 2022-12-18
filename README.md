@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pawan Patel</h1>
-- 👨‍🎓 I'm a Final-year Undraduate at NIT-Bhopal, pursuing Computer Science
+- 👨‍🎓 I'm a Final-year Undraduate at NIT-Bhopal, pursuing Computer Science and Engineering
 
 - 🔭 Currently I'm working on **my major and some side projects**
 
-- 📝 I sometimes write articles on [Data Structures and Algorithms](Data Structures and Algorithms)
+- 📝 I sometimes write articles on **Data Structures and Algorithms**
 
 - 💬 Ask me about **Competitive Programming**
 
