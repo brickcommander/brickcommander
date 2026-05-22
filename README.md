@@ -5,7 +5,7 @@
 ---
 
 ### 💼 About Me
-- Backend Engineer with 2 years of experience building **high-scale payment systems** at Samsung  
+- Backend Engineer with 3 years of experience building **high-scale payment systems** at Samsung  
 - Expert in **Java, Pythong, Spring Boot, AWS, Microservices, System Design, and DSA**  
 - Solved **2000+ DSA problems** and ranked **Top 200 globally** in multiple contests  
 - Passionate about **teaching, open-source, and building scalable systems**  
