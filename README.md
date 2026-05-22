@@ -1,6 +1,6 @@
 # Hi, I'm Pawan Patel 👋  
 
-🚀 **Senior Backend Engineer @ Samsung** | 💡 System Design & Payments Infrastructure | 🏆 Competitive Programmer  
+🚀 **Software Development Engineer 2 @ WEX Fintech | Ex - Senior Backend Engineer @ Samsung** | 💡 System Design & Payments Infrastructure | 🏆 Competitive Programmer  
 
 ---
 
